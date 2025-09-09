@@ -2,7 +2,7 @@
 ### Hi there 👋
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DongYub%20Kang&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HyeonJin%20Goh&fontSize=90" />
 
 📚 Tech Stacks 📚
 <p>
