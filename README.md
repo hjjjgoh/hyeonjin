@@ -21,8 +21,8 @@
      
 🐱 About Me 🐱
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:rkdehdduq12@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-EA4335?style=flat-square&logo=Naver&logoColor=white)](mailto:rkdehdduq12@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:02dumartin@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-EA4335?style=flat-square&logo=Naver&logoColor=white)](mailto:02dumartin@.com)
      
      
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdy1493&show_icons=true&theme=radical)
